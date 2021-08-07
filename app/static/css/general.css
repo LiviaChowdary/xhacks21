@@ -1,0 +1,16 @@
+.hide {
+    display: none;
+}
+
+.nav-hover:hover + .hide {
+    display: block;
+}
+
+.hide:hover {
+    display: block;
+}
+
+.navbar-nav.navbar-right {
+    position: absolute;
+    right: 2%;
+}
