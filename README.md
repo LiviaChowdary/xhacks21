@@ -11,3 +11,4 @@ michael & livia
 * [Airtable Calendar](https://airtable.com/shrBJQnP5PuXDeoof/tblwqwQIu07Xr3hac)
 * [Devpost](https://xhacks.devpost.com/)
 * [Typeform Registration](https://xhacks.typeform.com/to/YgyvCH8L)
+* [Our Devpost](https://devpost.com/software/ideainvestor)
